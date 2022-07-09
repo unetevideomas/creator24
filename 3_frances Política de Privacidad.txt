@@ -1,0 +1,40 @@
+Version 1.1 | 21 mars 2022
+
+Que contient ce document?
+Pour le fonctionnement optimal de cette application, il est nécessaire de collecter et de traiter certaines informations obtenues à partir de l'appareil sur lequel elle a été installée. Ces informations vous permettent d'améliorer l'application, d'adapter le contenu de manière optimale pour chaque utilisateur ou de contacter l'utilisateur si nécessaire. Pour démontrer que nous nous soucions de la confidentialité de nos utilisateurs, nous avons adopté cette politique de confidentialité, qui explique, dans un langage compréhensible et facile à comprendre, comment nous collectons, stockons, utilisons et divulguons les informations que les utilisateurs nous confient.
+
+Ces politiques de confidentialité tentent de couvrir autant de scénarios que possible, même dans de nombreux cas où l'application ne collecte ni ne traite même pas les informations décrites dans ces politiques de confidentialité.
+1. Quelles informations l'application collecte-t-elle?
+Cette application recueille les informations nécessaires au fonctionnement normal de notre activité. Cette application ne recueille PAS d'informations personnelles à des fins malveillantes.
+
+L'application ne recueille pas d'informations telles que votre nom, prénom, etc. Par conséquent, toutes les données sensibles que vous collectez ne pourront pas être associées directement à votre personne et seront traitées de manière anonyme. L'application peut récupérer une adresse e-mail ou un numéro de téléphone et la stocker afin que vous puissiez contacter l'utilisateur si nécessaire.
+
+Dans certains cas, ces informations peuvent être combinées avec d'autres informations vous concernant obtenues auprès d'autres sources, telles que d'autres applications ou sites Web.
+
+
+2. Quelles informations cette politique de confidentialité recueille-t-elle?
+L'application peut collecter des informations de deux types: (1) des informations non personnelles et anonymes collectées automatiquement ou (2) des informations personnellement identifiables (IIP) collectées manuellement après le consentement de l'utilisateur.
+
+Informations non personnelles collectées automatiquement
+
+Informations techniques, qui incluent certaines informations ou fonctionnalités sur le système d'exploitation, y compris le type d'opérateur ou le type de navigateur que vous utilisez, le protocole Internet (IP), l'adresse IP et les noms et versions des applications installées dans l'appareil, l'emplacement géographique de l'appareil (y compris les coordonnées GPS). Ces informations techniques telles que celle mentionnée ci-dessus restent anonymes, c'est-à-dire qu'elles ne les identifient pas personnellement ou ne sont pas associées à toute autre information qui les relie à l'utilisateur, sauf si l'utilisateur entre volontairement des informations supplémentaires.
+
+Ces informations seront utilisées pour améliorer l'application, en apprenant comment, quand et où l'utilisateur y navigue.
+
+
+
+Informations que l'utilisateur fournit librement
+
+Si, à tout moment, l'application demande des informations d'identification personnelle (IIP) qui nous permettent de le contacter, telles que le nom ou le téléphone portable, l'utilisateur sera libre de proposer ces informations. Cependant:
+Si vous partagez votre IIP dans un format ouvert (par exemple, via les réseaux sociaux), les informations que nous obtenons ne seront pas protégées par cette politique de confidentialité.
+L'IIP n'inclura aucune information collectée par l'application par tout autre moyen que cette application dans laquelle la politique de confidentialité est contenue. Cela signifie que les informations collectées ailleurs que dans cette application ne sont pas couvertes par la présente politique de confidentialité. Il convient de noter que, dans tous les cas où l'application propose des liens vers d'autres applications, nous ne sommes pas responsables du contenu, de l'activité ou des informations qui s'y déroulent.
+Les informations à caractère personnel seront prises en compte:
+
+Informations démographiques telles que l'âge ou le jour de naissance, la nationalité, le niveau d'éducation, le sexe, les intérêts ou les qualités.
+Informations sur l'utilisateur telles que nom d'utilisateur et mot de passe, réponses confidentielles à certaines questions de sécurité ou informations similaires qui nous permettent uniquement d'identifier votre compte ou de l'authentifier avant de fournir des informations personnelles sur le compte de l'utilisateur.
+
+La plupart de ces données peuvent être obtenues lorsque l'application propose une fonctionnalité d'enregistrement social et que l'utilisateur accepte l'enregistrement dans l'application via un compte social. Dans certains cas, l'application est automatiquement enregistrée avec le compte social de l'utilisateur associé à l'appareil et l'utilisateur accepte de prolonger ladite inscription lors de l'utilisation de cette application.
+3. Qu'advient-il des informations que nous collectons auprès des mineurs?
+Cette application ne collecte pas d'informations personnelles sur les enfants de moins de 13 ans. Nous prenons la vie privée de l'enfant au sérieux et encourageons les parents à jouer un rôle actif dans l'éducation en ligne de leurs enfants à tout moment. Les enfants de moins de 13 ans ne doivent pas installer notre application sur un appareil qui leur appartient et, s'ils le font, ce sera sous la responsabilité totale de leurs parents ou tuteurs. En cas d'obtention d'informations personnelles sur un enfant de moins de 13 ans, nous prendrons des mesures pour éliminer les informations fournies
+
+notre serveur Dans le cas où le contenu de cette application a reçu une qualification pour les enfants de moins de 13 ans, elle doit être installée exclusivement sur des appareils appartenant à leurs parents, tuteurs ou toute personne de plus de 13 ans. Si l'application demande à tout moment des informations à caractère personnel, les enfants de moins de 13 ans ne doivent jamais saisir ces informations.
